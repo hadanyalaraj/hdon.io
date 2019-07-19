@@ -1,0 +1,104 @@
+body{
+}
+
+.m0 li{
+	width:300px;
+	list-style: none;
+	float:left;
+	text-align: center;
+	margin:50px;
+	padding-bottom:-9000px;
+	}
+	
+.m1 li{
+	width:220px;
+	list-style: none;
+	float:left;
+	padding-bottom:-9000px;
+	padding-left:-05;
+	text-align: center;
+	margin:85px;
+	}
+	
+.m2 li{
+	width:300px;
+	list-style: none;
+	float:left;
+	padding-left:10;
+	text-align: center;
+	margin:40px;
+	}
+	.r0{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r1{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r2{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r3{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r4{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r5{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r6{
+		border-radius: 20px;
+		background: #ffffff;
+		padding:30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r7{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	.r8{
+		border-radius: 20px;
+		background: #ffffff;
+		padding: 30px;
+		padding-bottom:0px;
+		width: 200px;
+		height: 150px;
+	}
+	
+	
